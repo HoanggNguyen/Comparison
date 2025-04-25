@@ -1,0 +1,28 @@
+{
+  "header": [
+    "Hạng mục",
+    "Đơn vị",
+    "2016",
+    "2017",
+    "2018",
+    "2019 (sơ bộ)"
+  ],
+  "data": [
+    ["Tổng cung năng lượng sơ cấp (TPES)", "KTOE", 66978, 69610, 80912, 89792],
+    ["Tỷ trọng năng lượng tái tạo trong TPES", "%", 18.40, 21.08, 18.73, 16.07],
+    ["Tỷ trọng năng lượng phi thương mại trong TPES", "%", 0.33, 0.33, 0.29, 0.27],
+    ["Tổng tiêu thụ năng lượng cuối cùng (TFEC)", "KTOE", 48665, 51824, 57970, 61853],
+    ["Năng lượng cuối cùng/Tổng cung sơ cấp", "%", 72.66, 74.45, 71.65, 68.88],
+    ["Tiêu thụ năng lượng cuối cùng đầu người", "kgOE/người", 521.9, 549.6, 607.7, 641.1],
+    ["Cung năng lượng sơ cấp/GDP", "kgOE/1.000USD", 408.1, 397.1, 431.1, 447.0],
+    ["Tiêu thụ năng lượng cuối cùng/GDP", "kgOE/1.000USD", 296.5, 295.7, 308.9, 307.9],
+    ["Tỷ lệ nhập khẩu năng lượng trên TPES", "%", 33.19, 36.20, 39.25, 49.38],
+    ["Tỷ lệ nhập khẩu dòng năng lượng trên TPES", "%", 18.82, 20.49, 28.59, 39.54],
+    ["Tiêu thụ điện đầu người", "kWh/người", 1711, 1843, 2009, 2169],
+    ["Cường độ điện/GDP", "kWh/1.000USD", 972, 991, 1021, 1042],
+    ["Tỷ lệ tiêu thụ điện/tổng tiêu thụ năng lượng cuối cùng", "%", 28.2, 28.8, 28.4, 29.1],
+    ["Tổng phát thải do đốt nhiên liệu", "Mt-CO₂", 178.8, 180.3, 222.9, 262.2],
+    ["Phát thải trên đầu người", "kg CO₂/người", 1917, 1913, 2337, 2718],
+    ["Phát thải trên GDP", "kg CO₂/$US", 1.09, 1.029, 1.188, 1.305]
+  ]
+}
